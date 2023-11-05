@@ -1,1 +1,1 @@
-# zikirmatik
+# zikr counter
